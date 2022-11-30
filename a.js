@@ -1,7 +1,7 @@
 var $_str = "", txt = "", hold = "", i = 0, tf = 0, input_1, xa, xp, p;
 function wc(){
 	document.body.innerHTML = "";
-	txt = "Welcome to MPOP Reverse II Website, to use and explore this website, kindly type \"help\" without any quotation marks in the input box below.";
+	txt = "Welcome to My Website, to use and explore this website, kindly type \"help\" without any quotation marks in the input box below.";
 	expo();
 }
 function input(){
